@@ -1,6 +1,6 @@
 I reinvent the wheel a lot.
 
-I like :crab: **Rust**, :droplet: **Elixir** and :regional_indicator_g: **Go**. 
+I like :crab: **Rust**, :droplet: **Elixir** and **Go**. 
 I think everything should be built in those languages. Composition over 
 inheritance. Functional programming best programming.
 
