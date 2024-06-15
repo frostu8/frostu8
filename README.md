@@ -1,5 +1,7 @@
 I reinvent the wheel a lot.
 
+See my [personal Git](https://frostu8.rs/frostu8) for more information.
+
 I like :crab: **Rust**, :droplet: **Elixir** and **Go**. 
 I think everything should be built in those languages. Composition over 
 inheritance. Functional programming best programming.
